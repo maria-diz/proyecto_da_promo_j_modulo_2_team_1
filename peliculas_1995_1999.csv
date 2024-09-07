@@ -1,0 +1,212 @@
+,Tipo,Título,Año,Género,Id_API,IdOwner
+0,Movie,Nobat e Asheghi,1995,Drama,54935,tt0100267
+1,Movie,¡Que vivan los crotos!,1995,Drama,54937,tt0102739
+2,Movie,Paraíso Perdido,1995,Drama,54938,tt0105096
+3,Movie,Running Wild,1995,Drama,54939,tt0105298
+4,Movie,Las cosas del querer 2ª parte,1995,Drama,54941,tt0106616
+5,Movie,Halbe Welt,1995,Drama,54942,tt0107070
+6,Movie,Prima Donnas,1995,Comedy,54976,tt0102952
+7,Movie,Coolie No. 1,1995,Comedy,54977,tt0101616
+8,Movie,Night Visions,1995,Comedy,54978,tt0102532
+9,Movie,Witch Academy,1995,Comedy,54980,tt0108576
+10,Movie,Mécaniques célestes,1995,Comedy,54982,tt0107537
+11,Movie,Magkasangga 2000,1995,Action,55015,tt0105881
+12,Movie,Automatic,1995,Action,55016,tt0109178
+13,Movie,Abducted II: The Reunion,1995,Action,55021,tt0109033
+14,Movie,The Dangerous,1995,Action,55022,tt0109536
+15,Movie,Charlie's Ghost Story,1995,Fantasy,55056,tt0109400
+16,Movie,Esti Kornél csodálatos utazása,1995,Fantasy,55057,tt0109746
+17,Movie,Gladiator Cop,1995,Fantasy,55059,tt0109905
+18,Movie,Keita! L'héritage du griot,1995,Fantasy,55060,tt0110252
+19,Movie,The Phoenix and the Magic Carpet,1995,Fantasy,55062,tt0110826
+20,Movie,Tall Tale,1995,Fantasy,55063,tt0111359
+21,Movie,Temptress,1995,Horror,55095,tt0109546
+22,Movie,Children of the Corn III: Urban Harvest,1995,Horror,55098,tt0109415
+23,Movie,Embrace of the Vampire,1995,Horror,55099,tt0109723
+24,Movie,Témoin muet,1995,Horror,55100,tt0110604
+25,Movie,The Upstairs Neighbour,1995,Horror,55101,tt0111574
+26,Movie,Toughguy,1995,Horror,55102,tt0111464
+27,Movie,Sorceress,1995,Horror,55103,tt0111244
+28,Movie,Á köldum klaka,1995,Mystery,55136,tt0109028
+29,Movie,Dolores Claiborne,1995,Mystery,55138,tt0109642
+30,Movie,Jupiter's Wife,1995,Mystery,55140,tt0110217
+31,Movie,Mad Dogs and Englishmen,1995,Mystery,55141,tt0111151
+32,Movie,Die Knickerbocker-Bande: Das sprechende Grab,1995,Mystery,55143,tt0111269
+33,Movie,Seeking the Cafe Bob,1995,Romance,55177,tt0109363
+34,Movie,Costa Brava,1995,Romance,55179,tt0109489
+35,Movie,Les ennemis de la mafia,1995,Thriller,55214,tt0095102
+36,Movie,Above Suspicion,1995,Thriller,55216,tt0109034
+37,Movie,Dangerous Indiscretion,1995,Thriller,55222,tt0109532
+38,Movie,In the Shadow of the Sandcastle,1996,Drama,55254,tt0099840
+39,Movie,Almost Blue,1996,Drama,55256,tt0103655
+40,Movie,Augustitango,1996,Drama,55257,tt0106322
+41,Movie,Cries of Silence,1996,Drama,55258,tt0106621
+42,Movie,Burakku jakku,1996,Drama,55259,tt0106421
+43,Movie,God's Lonely Man,1996,Drama,55260,tt0107025
+44,Movie,Belyy prazdnik,1996,Drama,55261,tt0109239
+45,Movie,Highway of Heartache,1996,Comedy,55294,tt0110028
+46,Movie,Ladri di cinema,1996,Comedy,55296,tt0110294
+47,Movie,Pterodactyl Woman from Beverly Hills,1996,Comedy,55297,tt0110910
+48,Movie,Mo him wong,1996,Comedy,55298,tt0110463
+49,Movie,The Wedding Tape,1996,Comedy,55299,tt0111678
+50,Movie,La serva amorosa,1996,Comedy,55300,tt0111129
+51,Movie,Blondes Have More Guns,1996,Comedy,55301,tt0112526
+52,Movie,The Darien Gap,1996,Comedy,55302,tt0112803
+53,Movie,Ein fast perfekter Seitensprung,1996,Comedy,55303,tt0113035
+54,Movie,Eliksir,1996,Fantasy,55367,tt0112946
+55,Movie,Eno nakano bokuno mura,1996,Fantasy,55368,tt0112923
+56,Movie,Drzewa,1996,Horror,55406,tt0112908
+57,Movie,Night Hunter,1996,Horror,55407,tt0113981
+58,Movie,Sobrenatural,1996,Horror,55408,tt0114485
+59,Movie,Sucesos distantes,1996,Mystery,55444,tt0111305
+60,Movie,"Carlos Monzón, el segundo juicio",1996,Mystery,55445,tt0112632
+61,Movie,Letters from the East,1996,Mystery,55449,tt0113643
+62,Movie,Labirintos,1996,Mystery,55450,tt0113591
+63,Movie,Loch Ness,1996,Mystery,55451,tt0113682
+64,Movie,Power 98,1996,Mystery,55452,tt0114170
+65,Movie,Los vuelcos del corazón,1996,Romance,55486,tt0111645
+66,Movie,It's My Party,1996,Romance,55487,tt0113443
+67,Movie,Hollow Reed,1996,Romance,55488,tt0113314
+68,Movie,Cilantro y perejil,1996,Romance,55491,tt0112675
+69,Movie,Fast Money,1996,Romance,55492,tt0113033
+70,Movie,Le journal du séducteur,1996,Romance,55493,tt0113489
+71,Movie,Foreign Bodies,1996,Thriller,55528,tt0109827
+72,Movie,The Cold Light of Day,1996,Thriller,55529,tt0110125
+73,Movie,Lifebreath,1997,Drama,55564,tt0102267
+74,Movie,Strawberry Fields,1997,Drama,55566,tt0108233
+75,Movie,Annie's Garden,1997,Drama,55567,tt0109136
+76,Movie,Lethal Seduction,1997,Drama,55568,tt0110331
+77,Movie,This Is the Sea,1997,Drama,55570,tt0111416
+78,Movie,Alien Visitor,1997,Drama,55571,tt0112974
+79,Movie,Visidela,1997,Drama,55573,tt0111632
+80,Movie,Taranthriller,1997,Comedy,55604,tt0108294
+81,Movie,Day at the Beach,1997,Comedy,55608,tt0112810
+82,Movie,Kabel und Liebe,1997,Comedy,55609,tt0113513
+83,Movie,Gettin' Up,1997,Comedy,55610,tt0113162
+84,Movie,Lewis & Clark & George,1997,Comedy,55611,tt0113646
+85,Movie,Farmer & Chase,1997,Comedy,55613,tt0113031
+86,Movie,Captured Alive,1997,Action,55646,tt0112629
+87,Movie,Agnichakra,1997,Action,55647,tt0112308
+88,Movie,Firestorm,1997,Action,55649,tt0113067
+89,Movie,Il tocco - La sfida,1997,Action,55650,tt0115447
+90,Movie,Behind Enemy Lines,1997,Action,55652,tt0115647
+91,Movie,Champions,1997,Action,55653,tt0115864
+92,Movie,Les deux orphelines vampires,1997,Fantasy,55685,tt0112856
+93,Movie,Magic in the Mirror: Fowl Play,1997,Fantasy,55688,tt0116960
+94,Movie,Black Scorpion II: Aftershock,1997,Fantasy,55689,tt0115696
+95,Movie,A Ostra e o Vento,1997,Fantasy,55691,tt0117264
+96,Movie,An American Werewolf in Paris,1997,Fantasy,55693,tt0118604
+97,Movie,Dead Innocent,1997,Horror,55729,tt0116048
+98,Movie,Campfire Tales,1997,Horror,55731,tt0115813
+99,Movie,Asylum,1997,Horror,55732,tt0115584
+100,Movie,Illicit Dreams 2,1997,Mystery,55766,tt0116611
+101,Movie,Midnight Blue,1997,Mystery,55767,tt0117041
+102,Movie,Lost Highway,1997,Mystery,55770,tt0116922
+103,Movie,The Big Empty,1997,Mystery,55772,tt0118713
+104,Movie,Convict 762,1997,Mystery,55773,tt0118886
+105,Movie,Der Unfisch,1997,Romance,55807,tt0114502
+106,Movie,Changing Habits,1997,Romance,55808,tt0115865
+107,Movie,Always Say Goodbye,1997,Romance,55809,tt0115524
+108,Movie,Loose Women,1997,Romance,55810,tt0116914
+109,Movie,En brazos de la mujer madura,1997,Romance,55811,tt0116193
+110,Movie,Last Chance Love,1997,Romance,55812,tt0116826
+111,Movie,Hufters & Hofdames,1997,Romance,55813,tt0116577
+112,Movie,Driftwood,1997,Thriller,55848,tt0112904
+113,Movie,Shackles,1998,Drama,55884,tt0108098
+114,Movie,Luces de la noche,1998,Drama,55885,tt0110404
+115,Movie,La dame du jeu,1998,Drama,55887,tt0112784
+116,Movie,Tian yu,1998,Drama,55888,tt0115005
+117,Movie,The Brylcreem Boys,1998,Drama,55889,tt0115770
+118,Movie,Enemy,1998,Drama,55891,tt0116202
+119,Movie,Jaded,1998,Drama,55892,tt0116675
+120,Movie,Die kaukasische Nacht,1998,Drama,55893,tt0116753
+121,Movie,Ku jia tian xia,1998,Comedy,55924,tt0095469
+122,Movie,Drei Herren,1998,Comedy,55925,tt0112901
+123,Movie,Dead Man on Campus,1998,Comedy,55929,tt0118301
+124,Movie,Aprile,1998,Comedy,55930,tt0118635
+125,Movie,Clay Pigeons,1998,Comedy,55931,tt0118863
+126,Movie,Bulworth,1998,Comedy,55932,tt0118798
+127,Movie,Dieu seul me voit,1998,Comedy,55933,tt0118978
+128,Movie,Amaneció de golpe,1998,Action,55964,tt0112340
+129,Movie,Kabhi Na Kabhi,1998,Action,55967,tt0116737
+130,Movie,Desperate Measures,1998,Action,55968,tt0118966
+131,Movie,A Brooklyn State of Mind,1998,Action,55969,tt0118782
+132,Movie,Airboss II: Preemptive Strike,1998,Action,55970,tt0118569
+133,Movie,Deep Rising,1998,Action,55971,tt0118956
+134,Movie,Code of Ethics,1998,Action,55972,tt0118869
+135,Movie,Six-String Samurai,1998,Action,55973,tt0118736
+136,Movie,Lurid Tales: The Castle Queen,1998,Fantasy,56005,tt0116943
+137,Movie,Vino iz oduvanchikov,1998,Fantasy,56006,tt0115412
+138,Movie,Jungle Boy,1998,Fantasy,56007,tt0116727
+139,Movie,Animals with the Tollkeeper,1998,Fantasy,56010,tt0118621
+140,Movie,Dark City,1998,Fantasy,56012,tt0118929
+141,Movie,Dr. Dolittle,1998,Fantasy,56013,tt0118998
+142,Movie,Decampitated,1998,Horror,56046,tt0118951
+143,Movie,Shadow Builder,1998,Horror,56048,tt0117611
+144,Movie,Gut Pile,1998,Horror,56050,tt0119240
+145,Movie,Phantom of the Opera,1998,Horror,56051,tt0119889
+146,Movie,Phantoms,1998,Horror,56053,tt0119891
+147,Movie,The Gingerbread Man,1998,Mystery,56085,tt0119196
+148,Movie,Fallen,1998,Mystery,56087,tt0119099
+149,Movie,Where's Marlowe?,1998,Mystery,56088,tt0118150
+150,Movie,Goodbye Lover,1998,Mystery,56089,tt0119219
+151,Movie,Johnny Skidmarks,1998,Mystery,56090,tt0119416
+152,Movie,Letters from a Killer,1998,Mystery,56091,tt0119522
+153,Movie,Twilight,1998,Mystery,56092,tt0119594
+154,Movie,Long Time Since,1998,Mystery,56093,tt0119559
+155,Movie,Dead Letter Office,1998,Romance,56130,tt0118939
+156,Movie,Ceux qui m'aiment prendront le train,1998,Romance,56132,tt0118834
+157,Movie,Frauen lügen nicht,1998,Romance,56133,tt0119149
+158,Movie,Seeds of Doubt,1998,Thriller,56166,tt0117593
+159,Movie,Boogie Boy,1998,Thriller,56169,tt0118748
+160,Movie,Hush,1998,Thriller,56171,tt0118744
+161,Movie,Black Thunder,1998,Thriller,56172,tt0118732
+162,Movie,Alissa,1998,Thriller,56173,tt0118584
+163,Movie,Sangharsh,1999,Drama,56205,tt0111068
+164,Movie,Malevolence,1999,Drama,56207,tt0113747
+165,Movie,Two-Eleven,1999,Drama,56208,tt0114758
+166,Movie,Die Wand,1999,Drama,56209,tt0114890
+167,Movie,Ghost Taxi,1999,Drama,56210,tt0116408
+168,Movie,Jimmy Zip,1999,Drama,56211,tt0116703
+169,Movie,The Big Brass Ring,1999,Drama,56212,tt0115675
+170,Movie,18 Shades of Dust,1999,Drama,56213,tt0119028
+171,Movie,Making Waves,1999,Comedy,56244,tt0110445
+172,Movie,My Teacher's Wife,1999,Comedy,56245,tt0112444
+173,Movie,Do You Wanna Dance?,1999,Comedy,56247,tt0118994
+174,Movie,Baby Geniuses,1999,Comedy,56248,tt0118665
+175,Movie,Naisen logiikka,1999,Comedy,56249,tt0117148
+176,Movie,Predators from Beyond Neptune,1999,Comedy,56252,tt0119936
+177,Movie,As Bodas de Deus,1999,Comedy,56253,tt0119413
+178,Movie,Full Blast,1999,Action,56287,tt0119163
+179,Movie,Armageddon Boulevard,1999,Action,56288,tt0118853
+180,Movie,Payback,1999,Action,56290,tt0120784
+181,Movie,Velocity Trap,1999,Action,56291,tt0120435
+182,Movie,Virus,1999,Action,56292,tt0120458
+183,Movie,Star Wars: Episode I - The Phantom Menace,1999,Action,56293,tt0120915
+184,Movie,Babel,1999,Fantasy,56325,tt0118664
+185,Movie,Nachtvlinder,1999,Fantasy,56326,tt0119751
+186,Movie,Toy Story 2,1999,Fantasy,56328,tt0120363
+187,Movie,Fantasia 2000,1999,Fantasy,56329,tt0120910
+188,Movie,Being John Malkovich,1999,Fantasy,56331,tt0120601
+189,Movie,Beowulf,1999,Fantasy,56332,tt0120604
+190,Movie,The Mummy,1999,Fantasy,56333,tt0120616
+191,Movie,Hellblock 13,1999,Horror,56366,tt0119277
+192,Movie,Townies,1999,Horror,56367,tt0120361
+193,Movie,The Coroner,1999,Horror,56369,tt0121152
+194,Movie,When Justice Fails,1999,Mystery,56405,tt0120500
+195,Movie,Brokedown Palace,1999,Mystery,56406,tt0120620
+196,Movie,Foreign Correspondents,1999,Mystery,56407,tt0123078
+197,Movie,Eyes Wide Shut,1999,Mystery,56408,tt0120663
+198,Movie,Eye of the Beholder,1999,Mystery,56409,tt0120662
+199,Movie,The Green Mile,1999,Mystery,56410,tt0120689
+200,Movie,...Quando Troveja,1999,Mystery,56411,tt0120798
+201,Movie,Snow Falling on Cedars,1999,Mystery,56412,tt0120834
+202,Movie,eXistenZ,1999,Mystery,56413,tt0120907
+203,Movie,Onegin,1999,Romance,56448,tt0119079
+204,Movie,My Girlfriend's Boyfriend,1999,Romance,56451,tt0119740
+205,Movie,An Ideal Husband,1999,Romance,56453,tt0122541
+206,Movie,"Shame, Shame, Shame",1999,Thriller,56486,tt0117617
+207,Movie,Morella,1999,Thriller,56487,tt0119705
+208,Movie,Godmoney,1999,Thriller,56489,tt0119208
+209,Movie,Night of the Coyote,1999,Thriller,56490,tt0119786
+210,Movie,Dementia,1999,Thriller,56492,tt0120416
