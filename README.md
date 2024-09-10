@@ -26,17 +26,15 @@ La estructura del proyecto es la siguiente:
 
 /proyecto_cinemaextract
 │
-├── datos_API_fantasia_1984_1999.ipynb
-├── Selenium_actores.ipynb
 ├── extraccion_datos_api.ipynb
-├── extraccion_selenium_new.ipynb
+├── extraccion_selenium.ipynb
+├── Selenium_actores.ipynb
+├── tabla_oscar.ipynb
 ├── peliculas_1984.csv
 ├── peliculas_1995_1999.csv
 ├── peliculas_2000_2004.csv
 ├── peliculas_2005_2009.csv
 ├── tabla_oscar_archivo.csv
-├── movies_horror_action.ipynb
-├── archivo_comedy.ipynb
 └── README.md
 
 ## Requisitos
@@ -103,5 +101,7 @@ Contribuciones son bienvenidas. Si deseas contribuir, por favor sigue los siguie
 
 ## Autoras
 Ana Boyero - Team Developer.
+
 María Diz - Team Developer & Scrum Master.
+
 Yaiza Matesanz - Team Developer.
