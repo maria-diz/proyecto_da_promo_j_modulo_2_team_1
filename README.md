@@ -3,7 +3,7 @@
 ## 📄 Resumen
 DataStream está en constante búsqueda de mejorar su contenido y satisfacer a sus usuarios. CinemExtract aplica técnicas avanzadas de análisis de datos para identificar las películas y cortometrajes más populares y mejor valorados desde 1900 hasta la actualidad. Nuestro objetivo es ayudar a DataStream a tomar decisiones informadas sobre qué contenido promocionar y destacar en su plataforma.
 
-Utilizamos técnicas de web scraping y APIs para extraer información de fuentes como IMDb, Rotten Tomatoes y Wikipedia, y almacenamos estos datos en una base de datos para realizar consultas y análisis.
+Utilizamos técnicas de web scraping y APIs para extraer información de fuentes como IMDb y almacenamos estos datos en una base de datos para realizar consultas y análisis.
 
 ## 🎯 Objetivos
 - Consolidar conocimientos en **Python** y **SQL**.
@@ -17,13 +17,13 @@ Utilizamos técnicas de web scraping y APIs para extraer información de fuentes
 
 - **API de MoviesDataset**: Extraemos detalles básicos de películas, como título, género y año de estreno.
 - **Selenium y IMDb**: Obtenemos calificaciones, directores, guionistas y sinopsis de cada película.
-- **Detalles de Actores**: Información detallada de los principales actores de cada película.
+- **Detalles de actores**: Información detallada de los principales actores de cada película.
 - **Premios Óscar con Beautiful Soup**: Extraemos datos de las ceremonias de los premios desde el año 2000.
 
 ### Fase 2: Organización y almacenamiento de datos
 
-- **Creación de la Base de Datos**: Diseño y estructura para almacenar todos los datos extraídos.
-- **Inserción de Datos**: Ingreso de la información en la base de datos diseñada.
+- **Creación de la base de datos**: Diseño y estructura para almacenar todos los datos extraídos.
+- **Inserción de datos**: Ingreso de la información en la base de datos diseñada.
 
 ### Fase 3: Análisis y consultas de datos
 
@@ -90,5 +90,5 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue los si
 Para preguntas o sugerencias, por favor contacta con:
 
 - Ana Boyero: [LinkedIn](https://www.linkedin.com/in/anaboyero/)
-- María Diz: [LinkedIn](xxx)
+- María Diz: [LinkedIn](https://www.linkedin.com/in/maria-d-229180311/)
 - Yaiza Matesanz: [LinkedIn](https://www.linkedin.com/in/yaiza-matesanz-aviles/)
