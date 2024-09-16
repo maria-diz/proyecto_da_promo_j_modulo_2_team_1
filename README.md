@@ -92,4 +92,3 @@ Para preguntas o sugerencias, por favor contacta con:
 - Ana Boyero: [LinkedIn](https://www.linkedin.com/in/anaboyero/)
 - María Diz: [LinkedIn](xxx)
 - Yaiza Matesanz: [LinkedIn](https://www.linkedin.com/in/yaiza-matesanz-aviles/)
-
