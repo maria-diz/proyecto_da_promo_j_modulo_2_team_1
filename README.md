@@ -1,43 +1,42 @@
-# proyecto_da_promo_j_modulo_2_team_1
+# 🎬 Proyecto CinemExtract: Explorando el Séptimo Arte a través de Datos y Tecnología
 
-# Proyecto CinemaExtract - Extracción de Datos de Películas
+## 📄 Resumen
+DataStream está en constante búsqueda de mejorar su contenido y satisfacer a sus usuarios. CinemExtract aplica técnicas avanzadas de análisis de datos para identificar las películas y cortometrajes más populares y mejor valorados desde 1900 hasta la actualidad. Nuestro objetivo es ayudar a DataStream a tomar decisiones informadas sobre qué contenido promocionar y destacar en su plataforma.
 
-Este proyecto tiene como objetivo extraer y enriquecer información de películas utilizando una combinación de APIs y técnicas de web scraping con Selenium. El resultado final es un conjunto de datos detallado que se puede utilizar para análisis posteriores en SQL.
+Utilizamos técnicas de web scraping y APIs para extraer información de fuentes como IMDb, Rotten Tomatoes y Wikipedia, y almacenamos estos datos en una base de datos para realizar consultas y análisis.
 
-## Tabla de Contenidos
+## 🎯 Objetivos
+- Consolidar conocimientos en **Python** y **SQL**.
+- Implementar **Scrum** y **Agile** para el desarrollo del proyecto.
+- Mejorar la comunicación y el trabajo en equipo.
+- Exponer el proyecto de forma efectiva en la presentación final.
 
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Archivos y Scripts](#archivos-y-scripts)
-- [Resultados](#resultados)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+## 🚀 Fases del proyecto
 
-## Descripción del Proyecto
+### Fase 1: Extracción de datos
 
-Este proyecto permite extraer datos detallados de películas desde una API y, posteriormente, ampliar esta información con técnicas de scraping utilizando Selenium. Los datos se consolidan y se preparan para análisis en SQL. El objetivo es crear un dataset enriquecido que incluya detalles como directores, guionistas, y otros metadatos relevantes.
+- **API de MoviesDataset**: Extraemos detalles básicos de películas, como título, género y año de estreno.
+- **Selenium y IMDb**: Obtenemos calificaciones, directores, guionistas y sinopsis de cada película.
+- **Detalles de Actores**: Información detallada de los principales actores de cada película.
+- **Premios Óscar con Beautiful Soup**: Extraemos datos de las ceremonias de los premios desde el año 2000.
 
-## Estructura del Proyecto
+### Fase 2: Organización y almacenamiento de datos
 
-La estructura del proyecto es la siguiente:
+- **Creación de la Base de Datos**: Diseño y estructura para almacenar todos los datos extraídos.
+- **Inserción de Datos**: Ingreso de la información en la base de datos diseñada.
 
-/proyecto_cinemaextract
-│
-├── extraccion_datos_api.ipynb
-├── extraccion_selenium.ipynb
-├── Selenium_actores.ipynb
-├── tabla_oscar.ipynb
-├── peliculas_1984.csv
-├── peliculas_1995_1999.csv
-├── peliculas_2000_2004.csv
-├── peliculas_2005_2009.csv
-├── tabla_oscar_archivo.csv
-└── README.md
+### Fase 3: Análisis y consultas de datos
 
-## Requisitos
+- Realizamos consultas SQL para extraer información clave sobre tendencias y popularidad de películas.
+
+## 📚 Tecnologías utilizadas
+
+- **Python**: Para la extracción y manipulación de datos.
+- **Selenium**: Automatización del navegador para extraer información de IMDb.
+- **Beautiful Soup**: Análisis y extracción de tablas desde la web.
+- **SQL**: Para almacenamiento y consultas de datos.
+
+## ⚙️ Requisitos
 
 Antes de comenzar, asegúrate de tener los siguientes requisitos instalados:
 
@@ -46,62 +45,51 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos instalados:
 - Google Chrome y ChromeDriver para Selenium
 - Librerías de Python: `pandas`, `selenium`, `requests`
 
-## Instalación
+## 📦 Instalación
 
 1. Clona el repositorio:
-
-   git clone https://github.com/tu_usuario/proyecto_cinemaextract.git
+   git clone https://github.com/maria-diz/proyecto_da_promo_j_modulo_2_team_1.git
 
 2. Instala las dependencias necesarias:
-
    pip install pandas selenium requests
 
 3. Asegúrate de tener ChromeDriver configurado en tu PATH.
 
-## Uso
 
-1. **Extracción de datos desde la API**: Utiliza el notebook `extraccion_datos_api.ipynb` para extraer los datos de las películas entre los años 1984 y 2009. Los resultados se guardan en varios archivos CSV segmentados por rangos de años.
-   
-2. **Scraping de datos adicionales**: Utiliza `extraccion_selenium_new.ipynb` para extraer detalles adicionales de cada película como directores, guionistas y más. El script lee los IDs de películas desde los archivos CSV y realiza el scraping automáticamente.
+## 👥 Equipo
 
-3. **Guardar y usar los datos**: Una vez extraídos los datos, guárdalos en un archivo `CSV` utilizando el script incluido para su posterior análisis en SQL.
+   Ana Boyero: Team Developer
+   María Diz: Scrum Master
+   Yaiza Matesanz: Team Developer
 
-## Archivos y Scripts
+## 📅 Planificación del proyecto
 
-- **datos_API_fantasia_1984_1999.ipynb**: Extracción de películas del género fantasía desde la API en el rango 1984-1999.
-- **Selenium_actores.ipynb**: Script para la extracción de datos de actores.
-- **extraccion_datos_api.ipynb**: Contiene la extracción de datos de películas desde la API en diferentes rangos de años.
-- **extraccion_selenium_new.ipynb**: Scraping de datos detallados de las películas utilizando Selenium.
-- **peliculas_*.csv**: Archivos CSV con datos extraídos de la API.
-- **tabla_oscar_archivo.csv**: Datos relacionados con películas nominadas a los Oscars.
-- **README.md**: Documentación del proyecto.
+Trabajamos en sprints siguiendo los principios de Scrum, con revisiones periódicas y retroalimentación continua para mejorar el producto y el trabajo en equipo.
 
-## Resultados
+## 📊 Resultados esperados
 
-El proyecto genera un archivo CSV final con la información enriquecida de las películas. Este archivo contiene los siguientes campos:
+Identificar las películas mejor valoradas y más populares.
+Responder preguntas clave sobre tendencias del cine y premios Óscar.
 
-- ID de la película
-- Título
-- Director
-- Guionistas
-- Argumento
-- Otros detalles relevantes
+## 🎤 Presentación final
 
-Este archivo CSV está listo para ser importado a una base de datos SQL para análisis más avanzados.
+Cada miembro del equipo participará en la presentación, mostrando los resultados y los aprendizajes obtenidos.
 
-## Contribuciones
+## 🤝 Contribuciones
 
-Contribuciones son bienvenidas. Si deseas contribuir, por favor sigue los siguientes pasos:
+Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue los siguientes pasos:
 
 1. Haz un fork del repositorio.
-2. Crea una rama nueva (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Añadir nueva característica'`).
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
+2. Crea una rama nueva (git checkout -b feature/nueva-caracteristica).
+3. Realiza tus cambios y haz commit (git commit -m 'Añadir nueva característica').
+4. Haz push a la rama (git push origin feature/nueva-caracteristica).
 5. Abre un Pull Request.
 
-## Autoras
-Ana Boyero - Team Developer.
+## 📧 Contacto
 
-María Diz - Team Developer & Scrum Master.
+Para preguntas o sugerencias, por favor contacta con:
 
-Yaiza Matesanz - Team Developer.
+- Ana Boyero: [LinkedIn](https://www.linkedin.com/in/anaboyero/)
+- María Diz: [LinkedIn](xxx)
+- Yaiza Matesanz: [LinkedIn](https://www.linkedin.com/in/yaiza-matesanz-aviles/)
+
